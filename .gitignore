@@ -1,0 +1,31 @@
+# 🔐 SSH Keys
+.ssh/
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+
+# 🔐 Python cache
+__pycache__/
+*.pyc
+
+# 🔐 Logs & temp files
+*.log
+*.tmp
+
+# 🔐 OS files
+.DS_Store
+Thumbs.db
+
+# 🔐 Environment
+.env
+
+# 🔐 Database
+*.db
+
+# 🔐 Backup files
+*.bak
+*.old
+
+# 🔐 Termux hidden files
+.termux/
